@@ -1,0 +1,11 @@
+{
+  "packageManager": "github",
+  "name": "jquery-number",
+  "repo": "customd/jquery-number",
+  "files": {
+    "include": [
+      "jquery.number.min.js",
+      "jquery.number.min.js.map"
+    ]
+  }
+}
